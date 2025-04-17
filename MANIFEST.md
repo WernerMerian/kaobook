@@ -1,5 +1,3 @@
----
-
 # First Work: The kaobook Class
 
 MANIFEST.md

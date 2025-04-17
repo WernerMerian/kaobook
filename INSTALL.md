@@ -1,4 +1,13 @@
-# TeXLive Integration
+# Install
+
+## TeXLive
+
+If you are used to TeXLive, then these instructions are for you. They 
+tell you how to make sure that your local LaTeX installation will find 
+the template's files, so that you do not need to have the `kaobook.cls` 
+and `styles` files in the directory of your project.
+
+## TeXLive Integration
 
 Normally, when you write a book with this template, you need that the 
 `kaobook.cls` and the `styles` directory be in the same directory as the 
